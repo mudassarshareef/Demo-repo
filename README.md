@@ -1,3 +1,3 @@
 # demo
 
-This is my first GIT Project. 
+This is my first GIT Project!
